@@ -1,0 +1,6 @@
+ [
+  {"name":"A","dept":"IT","salary":5000},
+  {"name":"B","dept":"IT","salary":6000},
+  {"name":"C","dept":"HR","salary":4500},
+  {"name":"D","dept":"HR","salary":7000}
+]
